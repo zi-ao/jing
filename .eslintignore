@@ -1,0 +1,9 @@
+dist/
+dist-ssr/
+node_modules/
+
+*.d.ts
+*.svg
+*.cjs
+
+vite.config.ts
